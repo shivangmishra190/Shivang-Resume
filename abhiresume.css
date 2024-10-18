@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    color: black;
+    font-weight: 1000;
+}
+.image{
+    text-align: right;
+
+}
+.underline{
+    text-decoration: dotted;
+    /* background-color: aqua; */
+}
+.body{
+    /* background-image: url(https://th.bing.com/th/id/OIP.AaIvHV5pYEwY0WZHwSDQfgAAAA?rs=1&pid=ImgDetMain); */
+
+}
